@@ -59,4 +59,4 @@ If you'd like to include images to show how the pipeline works, here is how to i
 
 ### 3. Suggest possible improvements to your pipeline
   * As I mentioned in the shortcoming section, pipeline can be improved for detecting curved lines. 
-  * 
+  * Currently it is taking the region of interest just infrot of the vechicle, but this can be having drawbacks while taking left or right turn (ex. while entering to main road)
