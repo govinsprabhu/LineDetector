@@ -54,6 +54,7 @@ The goals / steps of this project are the following:
 ### 2. Identify potential shortcomings with your current pipeline
 
   * One of the obvious shortcomings in my submission I can see was, the algorithm is not working properly for curved roads. I tried for various hyper-parameters for the Optional challenge, but could not make it work properly.  
+  * Only taking Region of interest in the front view. Not considering left, right or back view in the case of turn or reverse.
 
 
 ### 3. Suggest possible improvements to your pipeline
